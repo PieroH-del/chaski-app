@@ -369,32 +369,6 @@ Cada pantalla sin contenido muestra un mensaje claro y amigable al usuario.
 
 ---
 
-## 🔮 Futuras Mejoras
-
-### Features Propuestas
-- [ ] Integración con Google Maps para seleccionar ubicación
-- [ ] Notificaciones push para seguimiento de pedidos
-- [ ] Chat en tiempo real con el repartidor
-- [ ] Sistema de calificaciones y reseñas
-- [ ] Cupones y promociones
-- [ ] Favoritos y productos guardados
-- [ ] Modo oscuro completo
-- [ ] Soporte para múltiples idiomas
-
----
-
-## 📚 Documentación Adicional
-
-El proyecto incluye documentación detallada en los siguientes archivos:
-
-- `API_DOCUMENTATION.md` - Documentación completa de la API
-- `CHECKOUT_IMPLEMENTATION.md` - Implementación del checkout
-- `SOLUCION_RESTAURANTE_ID.md` - Solución al problema del restaurante ID
-- `EMPTY_STATE_PEDIDOS.md` - Empty state de pedidos
-- `LOGO_CHASKI_IMPLEMENTADO.md` - Implementación del logo
-
----
-
 ## 🎓 Aprendizajes del Curso
 
 Este proyecto nos permitió aplicar y consolidar conocimientos en:
@@ -415,8 +389,7 @@ Este proyecto nos permitió aplicar y consolidar conocimientos en:
 ## 🙏 Agradecimientos
 
 - **Instituto IDAT** - Por la formación en Desarrollo Móvil
-- **Profesor(a)** - Por la guía y mentoría durante el proyecto
-- **Compañeros de clase** - Por el feedback y apoyo
+- **Profesor Solis Calderon Jhon Alexis** - Por la guía y mentoría durante el proyecto
 
 ---
 
@@ -430,8 +403,8 @@ Este proyecto fue desarrollado con fines educativos como parte del curso de Desa
 
 Para consultas sobre el proyecto:
 
-- **Ismael Galve Luyo** - [Email/LinkedIn]
-- **Piero Leon** - [Email/LinkedIn]
+- **Ismael Galve Luyo**
+- **Piero Leon Macalupu**
 
 ---
 
