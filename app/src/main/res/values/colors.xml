@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Chaski Brand Colors - Morado y Amarillo -->
+    <color name="primary">#7B2CBF</color> <!-- Morado principal -->
+    <color name="primary_variant">#5A189A</color> <!-- Morado oscuro -->
+    <color name="secondary">#FFB703</color> <!-- Amarillo -->
+    <color name="secondary_variant">#FB8500</color> <!-- Amarillo-naranja -->
+
+    <color name="background">#FFFFFF</color> <!-- Blanco -->
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#D32F2F</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#240046</color> <!-- Morado muy oscuro para texto -->
+    <color name="text_secondary">#5A189A</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_secondary">#240046</color>
+
+    <!-- Standard Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#9D4EDD</color> <!-- Morado gris -->
+    <color name="gray_light">#E0AAFF</color> <!-- Morado claro -->
+    <color name="gray_dark">#3C096C</color> <!-- Morado muy oscuro -->
+
+    <!-- Estados de pedido -->
+    <color name="estado_pendiente">#FFB703</color> <!-- Amarillo -->
+    <color name="estado_confirmado">#7B2CBF</color> <!-- Morado -->
+    <color name="estado_preparacion">#9D4EDD</color> <!-- Morado medio -->
+    <color name="estado_listo">#FB8500</color> <!-- Naranja -->
+    <color name="estado_camino">#FFBE0B</color> <!-- Amarillo brillante -->
+    <color name="estado_entregado">#06D6A0</color> <!-- Verde agua -->
+    <color name="estado_cancelado">#EF476F</color> <!-- Rosa rojo -->
+
+    <!-- Estado tienda -->
+    <color name="tienda_abierta">#06D6A0</color>
+    <color name="tienda_cerrada">#EF476F</color>
+
+    <!-- Ratings -->
+    <color name="rating_star">#FFB703</color> <!-- Amarillo -->
+
+    <!-- Background Producto -->
+    <color name="background_producto">#F8F9FA</color> <!-- Gris muy claro -->
+
+    <!-- Accent colors -->
+    <color name="accent_light">#E0AAFF</color> <!-- Morado pastel -->
+    <color name="accent_dark">#10002B</color> <!-- Morado casi negro -->
+
+    <!-- Outline/Border -->
+    <color name="outline">#C4C4C4</color> <!-- Gris medio para bordes -->
+</resources>

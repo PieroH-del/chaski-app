@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Chaski</string>
+
+    <!-- Auth -->
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="ingresa_para_continuar">Ingresa para continuar</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="registrate_aqui">Regístrate aquí</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes cuenta?</string>
+    <string name="inicia_sesion_aqui">Inicia sesión aquí</string>
+    <string name="direccion">Dirección</string>
+    <string name="url_foto_perfil_opcional">URL de foto de perfil</string>
+    <string name="opcional">Opcional</string>
+
+    <!-- Home -->
+    <string name="restaurantes">Restaurantes</string>
+    <string name="buscar_restaurantes">Buscar restaurantes...</string>
+    <string name="no_hay_restaurantes">No hay restaurantes disponibles</string>
+    <string name="imagen_restaurante">Imagen del restaurante</string>
+    <string name="inicio">Inicio</string>
+
+    <!-- Productos -->
+    <string name="productos">Productos</string>
+    <string name="no_hay_productos">No hay productos disponibles</string>
+    <string name="ver_carrito">Ver Carrito</string>
+    <string name="imagen_producto">Imagen del producto</string>
+    <string name="agotado">AGOTADO</string>
+    <string name="cantidad">Cantidad</string>
+
+    <!-- Carrito -->
+    <string name="eliminar">Eliminar</string>
+    <string name="disminuir">Disminuir cantidad</string>
+    <string name="aumentar">Aumentar cantidad</string>
+    <string name="mi_carrito">Mi Carrito</string>
+    <string name="resumen_pedido">Resumen del pedido</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="costo_envio">Costo de envío</string>
+    <string name="impuestos">Impuestos (18%%)</string>
+    <string name="total">Total</string>
+    <string name="proceder_checkout">Proceder al Checkout</string>
+    <string name="carrito_vacio">Tu carrito está vacío</string>
+
+    <!-- Checkout -->
+    <string name="checkout">Checkout</string>
+    <string name="direccion_entrega">Dirección de entrega</string>
+    <string name="agregar_nueva_direccion">Agregar nueva dirección</string>
+    <string name="metodo_pago">Método de pago</string>
+    <string name="efectivo">💵 Efectivo (pagar al recibir)</string>
+    <string name="tarjeta_credito">💳 Tarjeta de Crédito (simulado)</string>
+    <string name="tarjeta_debito">💳 Tarjeta de Débito (simulado)</string>
+    <string name="yape">📱 Yape (simulado)</string>
+    <string name="notas_instrucciones">Notas/Instrucciones</string>
+    <string name="notas_opcional">Ej: Sin cebolla, extra salsa (opcional)</string>
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+
+    <!-- Pedidos -->
+    <string name="mis_pedidos">Mis Pedidos</string>
+    <string name="no_hay_pedidos">Aún no has realizado ningún pedido</string>
+    <string name="empty_pedidos_subtitle">Explora restaurantes y haz tu primer pedido</string>
+    <string name="ver_detalle">Ver Detalle</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pedido_exitoso">Pedido exitoso</string>
+    <string name="pedido_confirmado">¡Pedido Confirmado!</string>
+    <string name="pedido_siendo_preparado">Tu pedido está siendo preparado</string>
+    <string name="ver_mi_pedido">Ver Mi Pedido</string>
+    <string name="volver_inicio">Volver al Inicio</string>
+    <string name="detalle_pedido">Detalle del Pedido</string>
+    <string name="resumen_pago">Resumen de pago</string>
+    <string name="cancelar_pedido">Cancelar Pedido</string>
+
+    <!-- Perfil -->
+    <string name="perfil">Perfil</string>
+    <string name="foto_perfil">Foto de perfil</string>
+    <string name="editar_perfil">Editar perfil</string>
+    <string name="mis_direcciones">Mis direcciones</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="cambiar_foto">Cambiar foto</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="editar">Editar</string>
+
+    <!-- Direcciones -->
+    <string name="predeterminada">PREDETERMINADA</string>
+    <string name="no_hay_direcciones">No tienes direcciones guardadas</string>
+    <string name="agregar_direccion">Agregar dirección</string>
+    <string name="alias">Alias (Casa, Oficina, etc.)</string>
+    <string name="direccion_completa">Dirección completa</string>
+    <string name="referencia">Referencia</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="establecer_predeterminada">Establecer como predeterminada</string>
+    <string name="guardar_direccion">Guardar Dirección</string>
+
+    <!-- Errores -->
+    <string name="error_select_address">Por favor selecciona una dirección de entrega</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="error_name_invalid">El nombre debe tener al menos 3 caracteres</string>
+    <string name="error_phone_invalid">El teléfono debe tener 9 dígitos</string>
+
+    <!-- Diálogos -->
+    <string name="delete_item_title">¿Eliminar producto?</string>
+    <string name="delete_item_message">¿Estás seguro de eliminar este producto del carrito?</string>
+    <string name="delete">Eliminar</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_confirm">¿Estás seguro que deseas cerrar sesión?</string>
+    <string name="delete_address_confirm">¿Estás seguro de eliminar esta dirección?</string>
+
+    <!-- Etiquetas -->
+    <string name="delivery_time">%d min</string>
+    <string name="delivery_cost">S/. %.2f envío</string>
+    <string name="open">Abierto</string>
+    <string name="closed">Cerrado</string>
+    <string name="order_number">Pedido #%s</string>
+    <string name="cart_empty">El carrito está vacío</string>
+
+    <!-- Títulos -->
+    <string name="my_cart">Mi Carrito</string>
+    <string name="order_detail">Detalle del Pedido</string>
+    <string name="add_address">Agregar Dirección</string>
+    <string name="edit_address">Editar Dirección</string>
+    <string name="addresses">Mis Direcciones</string>
+    <string name="edit_profile">Editar Perfil</string>
+
+    <!-- Estados de pedido -->
+    <string name="estado_pendiente_pago">Pendiente de Pago</string>
+    <string name="estado_confirmado">Confirmado</string>
+    <string name="estado_preparacion">En Preparación</string>
+    <string name="estado_listo">Listo para Recoger</string>
+    <string name="estado_en_camino">En Camino</string>
+    <string name="estado_entregado">Entregado</string>
+    <string name="estado_cancelado">Cancelado</string>
+
+    <!-- Navegación -->
+    <string name="main">Principal</string>
+    <string name="carrito">Carrito</string>
+    <string name="resumen">Resumen</string>
+    <string name="proceder_al_pago">Proceder al Pago</string>
+</resources>
+
